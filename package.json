@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-typescript",
+  "version": "1.0.0",
+  "description": "leetcode-typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^22.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
